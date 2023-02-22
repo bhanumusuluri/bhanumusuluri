@@ -3,7 +3,7 @@
 
 I love building applications and solving problems.
 
-Open Source Projects
+## Open Source Projects
 
 Termy - Terminal assistant for teams. Natural language interface for your long terminal commands.
 https://github.com/dingusagar/termy
