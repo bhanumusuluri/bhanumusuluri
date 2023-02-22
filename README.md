@@ -8,7 +8,7 @@ Open Source Projects
 Termy - Terminal assistant for teams. Natural language interface for your long terminal commands.
 https://github.com/dingusagar/termy
 
-####Work Experience 
+#### Work Experience 
 
 As an intern and then software engineer at Engati Technologies, I had the opportunity to work on developing and improving chatbot and virtual assistant development tools, as well as other software development projects. During my time there, I gained valuable experience in programming languages such as Python, JavaScript, and Java, as well as working with databases, APIs, and other software development tools.
 
